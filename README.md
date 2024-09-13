@@ -1,5 +1,7 @@
 ## Привет, я backend-разработчик 👋
 
+
+
 ### Используемые инструменты
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="40" height="40">&nbsp;
@@ -12,10 +14,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>&nbsp;
 
 ### Моя статистика
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sirensontheway?theme=dark)](https://leetcode.com/sirensontheway)
-</br>
 [![Codewars Badge](https://www.codewars.com/users/iamnotforza/badges/large)](https://www.codewars.com/users/iamnotforza)
-
+</br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sirensontheway?theme=dark)](https://leetcode.com/sirensontheway)
 
 <!--
 **sirensonthewayy/sirensonthewayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
